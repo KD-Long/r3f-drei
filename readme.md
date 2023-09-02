@@ -3,7 +3,7 @@
 This particles project was built in the progress of the [Three.js journey](https://threejs-journey.com) course, focusing on R3F and Drei.
 <br>
 
-![r3f-drei-image](./r3f-drei-image.png)
+![r3f-drei-image](./public/r3f-drei-image.png)
 
 
 
