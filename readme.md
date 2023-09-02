@@ -9,12 +9,13 @@ This particles project was built in the progress of the [Three.js journey](https
 
 ## Tech
 
-|                |               |
-| -------------- | ------------- |
-| JS             | Three.js      |
-| HTML           | CSS           |
-| Vite           | Github actions|
-| Hostinger      | Webhooks      |
+|                   |               |
+| ----------------- | ------------- |
+| React Three Fiber | Drei          |
+| JS                | Three.js      |
+| HTML              | CSS           |
+| Vite              | Github actions|
+| Hostinger         | Webhooks      |
 
 
 
